@@ -1,3 +1,6 @@
+[![](https://jitpack.io/v/avasoftwaresolutions/android-maskutils.svg)](https://jitpack.io/#avasoftwaresolutions/android-maskutils)
+
+
 # Android MaskUtils
 
 This library is intended for EditText masking with some of the most common Brazilian mask patterns. As such, this library is targeted at Brazilian apps and it's not so useful for international use-cases.
@@ -17,7 +20,7 @@ allprojects {
 Then add the dependency to your build.gradle (module).
 ```
 dependencies {
-    implementation 'com.github.User:Repo:Tag'
+    implementation 'com.github.avasoftwaresolutions:android-maskutils:1.0.0'
  }
 ```
 
